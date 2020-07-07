@@ -1,15 +1,11 @@
 {
-"todos": [
-  {
-    "id": "1",
-    "status": "open",
-    "title": "Test",
-    "description": "test description",
-    "createdDate": "July 1st",
-    "dueBy": "July 8th",
-    "expectedHours": "8 Hours",
-    "priority": "High",
-    "spentHours": "9 Hours",
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-],
 }
