@@ -1,6 +1,6 @@
 {
   "todos": [
-    { "id": "1", "status": "open", "title": "Test", "description": "test description", "createdDate": "July 1st", "dueBy": "July 8th", "expectedHours": "8 Hours", "priority": "High", "spentHours": "9 Hours", },
+    { "id": "1", "status": "open", "title": "Test", "description": "test description", "createdDate": "July 1st", "dueBy": "July 8th", "expectedHours": "8 Hours", "priority": "High", "spentHours": "9 Hours", }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
